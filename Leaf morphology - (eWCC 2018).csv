@@ -1,0 +1,81 @@
+"Collector"/t"Date"/t"Length_mm"/t"Width_mm"/t"Angio_Gymno"/t"TrunkSize"/t"LeafShape"/t"Latitude"/t"Longitude"/t"Location"/t"Comment"/t"country"/t"L.W.ratio"
+"Aarati B"/t2018-11-21/t155/t75/t"Angiosperm"/t"Pole"/t"Acuminate"/t28.188713/t83.991858/t"Semi-urban"/tNA/t"Nepal"/t2.066666667
+"Aarati B"/t2018-11-22/t150/t36/t"Angiosperm"/t"Pole"/t"Lanceolate"/t28.190307/t83.992098/t"Semi-urban"/tNA/t"Nepal"/t4.166666667
+"Aarati B"/t2018-11-23/t120/t52/t"Angiosperm"/t"Pole"/t"Acuminate"/t28.187376/t83.991969/t"Semi-urban"/tNA/t"Nepal"/t2.307692308
+"Aarati B"/t2018-11-24/t65/t5/t"Angiosperm"/t"Pole"/t"even-pinnate"/t28.188898/t83.991143/t"Semi-urban"/tNA/t"Nepal"/t13
+"Aarati B"/t2018-11-25/t65/t41/t"Angiosperm"/t"Small"/t"odd-pinnate"/t28.188747/t83.993932/t"Semi-urban"/tNA/t"Nepal"/t1.585365854
+"Elizabeth H"/t2018-11-22/t117/t90/t"Angiosperm"/t"Pole"/t"Acicular"/t1.347636/t103.960801/t"Urban"/tNA/t"Singapore"/t1.3
+"Elizabeth H"/t2018-11-22/t83/t38/t"Angiosperm"/t"Pole"/t"Acuminate"/t1.347636/t103.960801/t"Urban"/tNA/t"Singapore"/t2.184210526
+"Elizabeth H"/t2018-11-22/t46/t18/t"Angiosperm"/t"Pole"/t"Cuneate"/t1.347636/t103.960801/t"Urban"/tNA/t"Singapore"/t2.555555556
+"Elizabeth H"/t2018-11-22/t63/t34/t"Angiosperm"/t"Pole"/t"Elliptic"/t1.347636/t103.960801/t"Urban"/tNA/t"Singapore"/t1.852941176
+"Elizabeth H"/t2018-11-22/t55/t20/t"Angiosperm"/t"Pole"/t"Elliptic"/t1.347636/t103.960801/t"Urban"/tNA/t"Singapore"/t2.75
+"Harris H"/t2018-11-18/t121/t49/t"Angiosperm"/t"Pole"/t"Elliptic"/t3.063241/t101.460958/t"Urban"/tNA/t"Malaysia"/t2.469387755
+"Harris H"/t2018-11-18/t156/t67/t"Angiosperm"/t"Pole"/t"Elliptic"/t3.063241/t101.460958/t"Urban"/tNA/t"Malaysia"/t2.328358209
+"Harris H"/t2018-11-18/t83/t19/t"Angiosperm"/t"Pole"/t"Linear"/t3.063241/t101.460958/t"Urban"/tNA/t"Malaysia"/t4.368421053
+"Harris H"/t2018-11-18/t235/t22/t"Angiosperm"/t"Sapling"/t"Linear"/t3.063241/t101.460958/t"Urban"/tNA/t"Malaysia"/t10.68181818
+"Harris H"/t2018-11-18/t19/t12/t"Angiosperm"/t"Small"/t"Obtuse"/t3.063241/t101.460958/t"Urban"/tNA/t"Malaysia"/t1.583333333
+"Lyvia C"/t2018-11-21/t86/t32/t"Angiosperm"/t"Small"/t"Aristate"/t5.413551/t103.087002/t"Semi-urban"/tNA/t"Malaysia"/t2.6875
+"Lyvia C"/t2018-11-22/t100/t53/t"Angiosperm"/t"Pole"/t"Elliptic"/t5.413564/t103.087153/t"Semi-urban"/tNA/t"Malaysia"/t1.886792453
+"Lyvia C"/t2018-11-23/t116/t37/t"Angiosperm"/t"Small"/t"Aristate"/t5.413689/t103.087011/t"Semi-urban"/tNA/t"Malaysia"/t3.135135135
+"Lyvia C"/t2018-11-24/t205/t77/t"Angiosperm"/t"Large"/t"Lanceolate"/t5.413654/t103.086824/t"Semi-urban"/tNA/t"Malaysia"/t2.662337662
+"Lyvia C"/t2018-11-25/t75/t19/t"Angiosperm"/t"Medium"/t"Aristate"/t5.413451/t103.086894/t"Semi-urban"/tNA/t"Malaysia"/t3.947368421
+"Mahgol K"/t2018-11-19/t60/t52/t"Angiosperm"/t"Small"/t"Cordate"/t35.729128/t51.408024/t"Urban"/tNA/t"Iran"/t1.153846154
+"Mahgol K"/t2018-11-19/t84/t53/t"Angiosperm"/t"Medium"/t"Obtuse"/t35.728975/t51.407585/t"Urban"/tNA/t"Iran"/t1.58490566
+"Mahgol K"/t2018-11-19/t169/t98/t"Angiosperm"/t"Small"/t"Obtuse"/t35.725811/t51.433601/t"Urban"/tNA/t"Iran"/t1.724489796
+"Mahgol K"/t2018-11-19/t176/t109/t"Angiosperm"/t"Small"/t"Ovate"/t35.728963/t51.408427/t"Urban"/tNA/t"Iran"/t1.614678899
+"Mahgol K"/t2018-11-19/t251/t167/t"Angiosperm"/t"Medium"/t"Palmate"/t35.731487/t51.410784/t"Urban"/tNA/t"Iran"/t1.502994012
+"Rahmia N"/t2018-11-23/t210/t80/t"Angiosperm"/t"Small"/t"Aristate"/t-6.556884/t106.728426/t"Semi-urban"/tNA/t"Indonesia"/t2.625
+"Rahmia N"/t2018-11-23/t158/t128/t"Angiosperm"/t"Medium"/t"Cordate"/t-6.556912/t106.728477/t"Semi-urban"/tNA/t"Indonesia"/t1.234375
+"Rahmia N"/t2018-11-23/t100/t46/t"Angiosperm"/t"Pole"/t"Elliptic"/t-6.556807/t106.728391/t"Semi-urban"/tNA/t"Indonesia"/t2.173913043
+"Rahmia N"/t2018-11-23/t188/t53/t"Angiosperm"/t"Pole"/t"Lanceolate"/t-6.55678/t106.728504/t"Semi-urban"/tNA/t"Indonesia"/t3.547169811
+"Rahmia N"/t2018-11-23/t80/t98/t"Angiosperm"/t"Pole"/t"Orbicular"/t-6.556847/t106.728404/t"Semi-urban"/tNA/t"Indonesia"/t0.816326531
+"Ree"/t2018-11-23/t190/t95/t"Angiosperm"/t"Medium"/t"Elliptic"/t16.742/t100.195/t"Urban"/tNA/t"Thailand"/t2
+"Ree"/t2018-11-23/t102/t55/t"Angiosperm"/t"Pole"/t"Elliptic"/t16.742/t100.195/t"Urban"/tNA/t"Thailand"/t1.854545455
+"Ree"/t2018-11-23/t130/t73/t"Angiosperm"/t"Small"/t"Elliptic"/t16.742/t100.195/t"Urban"/tNA/t"Thailand"/t1.780821918
+"Ree"/t2018-11-23/t218/t68/t"Angiosperm"/t"Pole"/t"Lanceolate"/t16.742/t100.195/t"Urban"/tNA/t"Thailand"/t3.205882353
+"Ree"/t2018-11-23/t296/t120/t"Angiosperm"/t"Pole"/t"Obovate"/t16.742/t100.195/t"Urban"/tNA/t"Thailand"/t2.466666667
+"Rohit S"/t2018-11-20/t30/t22/t"Angiosperm"/t"Small"/t"Cuneate"/t19.402/t79.4569/t"Rural"/tNA/t"India"/t1.363636364
+"Rohit S"/t2018-11-20/t50/t30/t"Angiosperm"/t"Small"/t"Ovate"/t19.40095/t79.4566/t"Rural"/tNA/t"India"/t1.666666667
+"Rohit S"/t2018-12-02/t56/t45/t"Angiosperm"/t"Small"/t"Lanceolate"/t18.468142/t79.0967/t"Rural"/tNA/t"India"/t1.244444444
+"Rohit S"/t2018-12-02/t75/t37/t"Angiosperm"/t"Large"/t"Linear"/t19.37402/t79.63586/t"Rural"/tNA/t"India"/t2.027027027
+"Rohit S"/t2018-12-02/t82/t32/t"Angiosperm"/t"Large"/t"Lanceolate"/t19.51239/t79.42836/t"Rural"/tNA/t"India"/t2.5625
+"Shakinah R"/t2018-11-22/t125/t41/t"Angiosperm"/t"Pole"/t"Acuminate"/t5.352726/t100.303242/t"Urban"/tNA/t"Malaysia"/t3.048780488
+"Shakinah R"/t2018-11-22/t56/t34/t"Angiosperm"/t"Medium"/t"Elliptic"/t5.352726/t100.303242/t"Urban"/tNA/t"Malaysia"/t1.647058824
+"Shakinah R"/t2018-11-22/t100/t33/t"Angiosperm"/t"Pole"/t"Lanceolate"/t5.352726/t100.303242/t"Urban"/tNA/t"Malaysia"/t3.03030303
+"Shakinah R"/t2018-11-22/t204/t58/t"Angiosperm"/t"Sapling"/t"Linear"/t5.352726/t100.303242/t"Urban"/tNA/t"Malaysia"/t3.517241379
+"Shakinah R"/t2018-11-22/t197/t110/t"Angiosperm"/t"Medium"/t"Ovate"/t5.352726/t100.303242/t"Urban"/tNA/t"Malaysia"/t1.790909091
+"Xinyi"/t2018-11-25/t266/t48/t"Angiosperm"/t"Pole"/t"Acuminate"/t22.815586/t108.340639/t"Urban"/tNA/t"China"/t5.541666667
+"Xinyi"/t2018-11-25/t115/t63/t"Angiosperm"/t"Sapling"/t"Elliptic"/t22.810653/t108.340003/t"Urban"/tNA/t"China"/t1.825396825
+"Xinyi"/t2018-11-25/t132/t14/t"Angiosperm"/t"Medium"/t"Linear"/t22.810003/t108.339867/t"Urban"/tNA/t"China"/t9.428571429
+"Xinyi"/t2018-11-25/t79/t27/t"Angiosperm"/t"Sapling"/t"Linear"/t22.811011/t108.339992/t"Urban"/tNA/t"China"/t2.925925926
+"Xinyi"/t2018-11-25/t74/t31/t"Angiosperm"/t"Sapling"/t"Obtuse"/t22.8112/t108.339989/t"Urban"/tNA/t"China"/t2.387096774
+"Wei Yang"/t2018-11-27/t104/t50/t"Angiosperm"/t"Medium"/t"Obtuse"/t1.385526/t103.877719/t"Urban"/tNA/t"Singapore"/t2.08
+"Wei Yang"/t2018-11-27/t1229/t266/t"Angiosperm"/t"Small"/t"Lanceolate"/t1.385526/t103.877719/t"Urban"/tNA/t"Singapore"/t4.620300752
+"Wei Yang"/t2018-11-27/t62/t24/t"Angiosperm"/t"Pole"/t"Lanceolate"/t1.385526/t103.877719/t"Urban"/tNA/t"Singapore"/t2.583333333
+"Wei Yang"/t2018-11-27/t142/t107/t"Angiosperm"/t"Small"/t"Obovate"/t1.385526/t103.877719/t"Urban"/tNA/t"Singapore"/t1.327102804
+"Wei Yang"/t2018-11-27/t526/t461/t"Angiosperm"/t"Large"/t"Bipinnate"/t1.385526/t103.877719/t"Urban"/tNA/t"Singapore"/t1.140997831
+"Gim"/t2018-11-29/t85/t47/t"Angiosperm"/t"Medium"/t"lobed"/t0.2579/t51.573602/t"Semi-urban"/tNA/t"United Kingdom"/t1.808510638
+"Gim"/t2018-11-30/t49/t28/t"Angiosperm"/tNA/t"Spear"/t0.2579/t51.573602/t"Semi-urban"/tNA/t"United Kingdom"/t1.75
+"Gim"/t2018-12-01/t31/t9/t"Angiosperm"/tNA/t"Lanceolate"/t0.2579/t51.573602/t"Semi-urban"/tNA/t"United Kingdom"/t3.444444444
+"Gim"/t2018-12-02/t45/t18/t"Angiosperm"/tNA/t"Lanceolate"/t0.2579/t51.573602/t"Semi-urban"/tNA/t"United Kingdom"/t2.5
+"Gim"/t2018-12-03/t42/t15/t"Angiosperm"/tNA/t"Lanceolate"/t0.2579/t51.573602/t"Semi-urban"/tNA/t"United Kingdom"/t2.8
+"Yui"/t2018-11-29/t60/t12/t"Angiosperm"/tNA/t"Linear"/t35.652832/t139.839478/t"Urban"/tNA/t"Japan"/t5
+"Yui"/t2018-11-29/t63/t31/t"Angiosperm"/tNA/t"Rhomboid"/t35.652832/t139.839478/t"Urban"/tNA/t"Japan"/t2.032258065
+"Yui"/t2018-11-29/t238/t39/t"Angiosperm"/tNA/t"Obtuse"/t35.652832/t139.839478/t"Urban"/tNA/t"Japan"/t6.102564103
+"Yui"/t2018-11-29/t152/t87/t"Angiosperm"/t"Small"/t"Elliptic"/t35.652832/t139.839478/t"Urban"/tNA/t"Japan"/t1.747126437
+"Yui"/t2018-11-29/t46/t28/t"Angiosperm"/tNA/t"Obtuse"/t35.652832/t139.839478/t"Urban"/tNA/t"Japan"/t1.642857143
+"Eve M"/t2018-11-30/t140/t87/t"Angiosperm"/tNA/t"Obtuse"/t7.039995/t125.490908/t"Semi-urban"/tNA/t"Philippines"/t1.609195402
+"Eve M"/t2018-11-30/t115/t41/t"Angiosperm"/t"Sapling"/t"Linear"/t7.039969/t125.4990924/t"Semi-urban"/tNA/t"Philippines"/t2.804878049
+"Eve M"/t2018-11-30/t175/t105/t"Angiosperm"/t"Small"/t"Aristate"/t7.040421/t125.490399/t"Semi-urban"/tNA/t"Philippines"/t1.666666667
+"Eve M"/t2018-11-30/t93/t37/t"Angiosperm"/t"Medium"/t"Falcate"/t7.040663/t125.490405/t"Semi-urban"/tNA/t"Philippines"/t2.513513514
+"Eve M"/t2018-11-30/t148/t62/t"Angiosperm"/t"Small"/t"Lanceolate"/t7.040349/t125.490174/t"Semi-urban"/tNA/t"Philippines"/t2.387096774
+"Zher Yee"/t2018-12-02/t160/t212/t"Angiosperm"/tNA/t"palmate"/t51.5169/t-0.1669/t"Urban"/tNA/t"England"/t0.754716981
+"Zher Yee"/t2018-12-02/t68/t31/t"Angiosperm"/tNA/t"odd pinnate"/t51.5169/t-0.1669/t"Urban"/tNA/t"England"/t2.193548387
+"Zher Yee"/t2018-12-02/t82/t26/t"Angiosperm"/tNA/t"odd pinnate"/t51.5168/t-0.1701/t"Urban"/tNA/t"England"/t3.153846154
+"Zher Yee"/t2018-12-02/t22/t1/t"Gymnosperm"/tNA/t"acicular"/t51.5168/t-0.1701/t"Urban"/tNA/t"England"/t22
+"Zher Yee"/t2018-12-02/t97/t122/t"Angiosperm"/tNA/t"palmate"/t51.5169/t-0.1695/t"Urban"/tNA/t"England"/t0.795081967
+"Manpreet Singh"/t2018-12-02/t306/t61/t"Angiosperm"/t"Medium"/t"Lanceolate"/t23.209917/t77.386571/t"Semi-urban"/tNA/t"India"/t5.016393443
+"Manpreet Singh"/t2018-12-02/t187/t73/t"Angiosperm"/t"Large"/t"Elliptic"/t23.224245/t77.362308/t"Semi-urban"/tNA/t"India"/t2.561643836
+"Manpreet Singh"/t2018-12-02/t15/t7/t"Angiosperm"/t"Large"/t"Ovate"/t23.225696/t77.361735/t"Semi-urban"/tNA/t"India"/t2.142857143
+"Manpreet Singh"/t2018-12-02/t199/t64/t"Angiosperm"/t"Medium"/t"Lanceolate"/t23.221242/t77.355254/t"Semi-urban"/tNA/t"India"/t3.109375
+"Manpreet Singh"/t2018-12-02/t157/t72/t"Angiosperm"/t"Medium"/t"Ovate"/t23.236048/t77.357443/t"Semi-urban"/tNA/t"India"/t2.180555556
